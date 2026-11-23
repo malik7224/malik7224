@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="640" height="36" viewBox="0 0 640 36" role="img" aria-label="Malik Ali, COO at Preesoft. Built end to end.">
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="44" viewBox="0 0 1280 44" role="img" aria-label="Malik Ali, COO at Preesoft. Built end to end.">
   <defs>
-    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
-      <path d="M32 0H0V32" fill="none" stroke="#26262A" stroke-width="1"/>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0H0V48" fill="none" stroke="#26262A" stroke-width="1"/>
     </pattern>
   </defs>
   <style>
@@ -10,8 +10,8 @@
     .dim { fill: #A1A1A6; }
     .acc { fill: #F2B84B; }
     .in  { animation: in .7s ease-out backwards; }
-    @keyframes in { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+    @keyframes in { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
     @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
   </style>
-<text class="m dim" x="320.0" y="24" font-size="12" font-weight="400" text-anchor="middle" letter-spacing="1.5">MALIK ALI · COO @ PREESOFT · BUILT END TO END</text>
+<text class="m dim" x="640.0" y="28" font-size="13" font-weight="400" text-anchor="middle" letter-spacing="2">MALIK ALI  ·  COO @ PREESOFT  ·  BUILT END TO END</text>
 </svg>
