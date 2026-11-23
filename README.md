@@ -13,10 +13,10 @@
 <a href="mailto:malikali7224@gmail.com"><img src="assets/contact.svg" alt="Have an idea? Let's ship it." width="100%"></a>
 
 <p align="center">
-  <a href="https://www.upwork.com/freelancers/~0149bae7baf6f8630c"><img src="assets/btn-upwork.svg" alt="Hire me on Upwork" width="24%"></a>
-  <a href="https://www.fiverr.com/s/NeWjkrR"><img src="assets/btn-fiverr.svg" alt="View my Fiverr gigs" width="24%"></a>
-  <a href="https://www.linkedin.com/in/ali-raza-razzaq-0bb721182/"><img src="assets/btn-linkedin.svg" alt="Connect on LinkedIn" width="24%"></a>
-  <a href="mailto:malikali7224@gmail.com"><img src="assets/btn-email.svg" alt="Email malikali7224@gmail.com" width="24%"></a>
+  <a href="https://www.upwork.com/freelancers/~0149bae7baf6f8630c"><img src="assets/btn-upwork.svg" alt="Hire me on Upwork" width="49%"></a>
+  <a href="https://www.fiverr.com/s/NeWjkrR"><img src="assets/btn-fiverr.svg" alt="View my Fiverr gigs" width="49%"></a>
+  <a href="https://www.linkedin.com/in/ali-raza-razzaq-0bb721182/"><img src="assets/btn-linkedin.svg" alt="Connect on LinkedIn" width="49%"></a>
+  <a href="mailto:malikali7224@gmail.com"><img src="assets/btn-email.svg" alt="Email malikali7224@gmail.com" width="49%"></a>
 </p>
 
 <a href="https://www.upwork.com/freelancers/~0149bae7baf6f8630c"><img src="assets/footer.svg" alt="Malik Ali, COO at Preesoft. Built end to end." width="100%"></a>

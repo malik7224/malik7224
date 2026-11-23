@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="250" viewBox="0 0 1280 250" role="img" aria-label="Have an idea? Let's ship it.">
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="214" viewBox="0 0 640 214" role="img" aria-label="Have an idea? Let's ship it.">
   <defs>
-    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
-      <path d="M48 0H0V48" fill="none" stroke="#26262A" stroke-width="1"/>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#26262A" stroke-width="1"/>
     </pattern>
   </defs>
   <style>
@@ -10,10 +10,10 @@
     .dim { fill: #A1A1A6; }
     .acc { fill: #F2B84B; }
     .in  { animation: in .7s ease-out backwards; }
-    @keyframes in { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+    @keyframes in { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
     @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
   </style>
-<rect x="0.5" y="0.5" width="1279" height="249" rx="24" fill="#1E1E21" stroke="#333338"/><rect x="0" y="0" width="1280" height="250" rx="24" fill="url(#grid)"/>
-<text class="in" x="64" y="120" font-size="64" font-weight="700" style="animation-delay:0.2s" letter-spacing="-2.4">Have an idea?</text>
-<text class="acc in" x="64" y="196" font-size="64" font-weight="700" style="animation-delay:0.4s" letter-spacing="-2.4">Let's ship it.</text>
+<rect x="0.5" y="0.5" width="639" height="213" rx="18" fill="#1E1E21" stroke="#333338"/><rect width="640" height="214" rx="18" fill="url(#grid)"/>
+<text class="in" x="36" y="98" font-size="46" font-weight="700" style="animation-delay:0.2s" letter-spacing="-1.8">Have an idea?</text>
+<text class="acc in" x="36" y="154" font-size="46" font-weight="700" style="animation-delay:0.4s" letter-spacing="-1.8">Let's ship it.</text>
 </svg>
