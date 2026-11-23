@@ -1,4 +1,4 @@
-# Ali Raza
+# Malik Ali
 
 **Full-stack engineer** building web, backend and mobile products.
 COO at [Preesoft](https://github.com/Preesoftdev) · Top Rated Plus on Upwork.
