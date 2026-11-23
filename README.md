@@ -1,18 +1,22 @@
-<img src="banner.svg" alt="Malik Ali, Full-Stack Engineer" width="100%">
+<img src="assets/hero.svg" alt="Malik Ali. Web. API. Mobile. One engineer. Available for new projects. COO at Preesoft, Top Rated Plus on Upwork." width="100%">
 
-<img src="assets/about.svg" alt="One engineer for the whole product. I take an idea from first screen to production: the web app, the API behind it, and the mobile app in your customers' hands." width="100%">
+<img src="assets/facts.svg" alt="7+ years shipping software. Web, API and mobile with one owner. Clients in the US and UK through Preesoft. Top 3% Top Rated Plus on Upwork." width="100%">
 
-<img src="assets/deliver.svg" alt="What I deliver. Web: Next.js, React, TypeScript. Backend: Node.js, TypeScript, Firebase. Mobile: Kotlin, Jetpack Compose, React Native." width="100%">
+<img src="assets/work.svg" alt="Selected work: Settle, Bill Khata, Marketplace, Firebase Admin API. Private projects, code on request." width="100%">
 
-<img src="assets/stack.svg" alt="Tech stack: Next.js, React, TypeScript, Tailwind CSS, Node.js, Express, Firebase, Kotlin, Jetpack Compose, React Native, Git, Vercel, Android Studio." width="100%">
+<img src="assets/capabilities.svg" alt="Web: Next.js, React, TypeScript. Backend: Node.js, Express, Firebase, Supabase. Mobile: Kotlin, Compose, Flutter, Swift." width="100%">
 
-<img src="assets/work.svg" alt="Selected work: Settle, Marketplace, Firebase Admin API, Field Operations Suite. Most work is for clients and stays private." width="100%">
+<img src="assets/process.svg" alt="How we'll work: scope, design, build, ship." width="100%">
 
-<img src="assets/contact.svg" alt="Work with me. Let's build something solid." width="100%">
+<img src="assets/toolbox.svg" alt="Toolbox: Next.js, React, TypeScript, Tailwind CSS, Node.js, Express, Firebase, Supabase, REST APIs, Kotlin, Jetpack Compose, Swift, Flutter, React Native." width="100%">
+
+<img src="assets/contact.svg" alt="Have an idea? Let's ship it." width="100%">
 
 <p align="center">
-  <a href="https://www.upwork.com/freelancers/~0149bae7baf6f8630c"><img src="assets/btn-upwork.svg" alt="Upwork: Hire me" width="24%"></a>
-  <a href="https://www.fiverr.com/s/NeWjkrR"><img src="assets/btn-fiverr.svg" alt="Fiverr: View gigs" width="24%"></a>
-  <a href="https://www.linkedin.com/in/ali-raza-razzaq-0bb721182/"><img src="assets/btn-linkedin.svg" alt="LinkedIn: Connect" width="24%"></a>
-  <a href="mailto:malikali7224@gmail.com"><img src="assets/btn-email.svg" alt="Email: Say hello" width="24%"></a>
+  <a href="https://www.upwork.com/freelancers/~0149bae7baf6f8630c"><img src="assets/btn-upwork.svg" alt="Hire me on Upwork" width="24%"></a>
+  <a href="https://www.fiverr.com/s/NeWjkrR"><img src="assets/btn-fiverr.svg" alt="View my Fiverr gigs" width="24%"></a>
+  <a href="https://www.linkedin.com/in/ali-raza-razzaq-0bb721182/"><img src="assets/btn-linkedin.svg" alt="Connect on LinkedIn" width="24%"></a>
+  <a href="mailto:malikali7224@gmail.com"><img src="assets/btn-email.svg" alt="Email malikali7224@gmail.com" width="24%"></a>
 </p>
+
+<img src="assets/footer.svg" alt="Malik Ali, COO at Preesoft. Built end to end." width="100%">

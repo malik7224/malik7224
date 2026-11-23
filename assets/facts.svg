@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="140" viewBox="0 0 1280 140" role="img" aria-label="7+ years shipping software. Web, API and mobile with one owner. Clients in the US and UK through Preesoft. Top 3% Top Rated Plus on Upwork.">
+  <defs>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0H0V48" fill="none" stroke="#26262A" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif; fill: #F4F4F2; }
+    .m   { font-family: 'SF Mono', ui-monospace, Menlo, Consolas, 'Liberation Mono', monospace; }
+    .dim { fill: #A1A1A6; }
+    .acc { fill: #F2B84B; }
+    .in  { animation: in .7s ease-out backwards; }
+    @keyframes in { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+  </style>
+<g class="in" style="animation-delay:0.1s"><rect x="0.5" y="0.5" width="307" height="139" rx="18" fill="#232326" stroke="#333338"/><text class="acc" x="24" y="70" font-size="42" font-weight="700" letter-spacing="-1.2">7+</text><text class="dim" x="24" y="108" font-size="16" font-weight="400" >Years shipping software</text></g>
+<g class="in" style="animation-delay:0.25s"><rect x="324.5" y="0.5" width="307" height="139" rx="18" fill="#232326" stroke="#333338"/><text class="" x="348" y="70" font-size="42" font-weight="700" letter-spacing="-1.2">3 in 1</text><text class="dim" x="348" y="108" font-size="16" font-weight="400" >Web, API and mobile, one owner</text></g>
+<g class="in" style="animation-delay:0.4s"><rect x="648.5" y="0.5" width="307" height="139" rx="18" fill="#232326" stroke="#333338"/><text class="" x="672" y="70" font-size="42" font-weight="700" letter-spacing="-1.2">US · UK</text><text class="dim" x="672" y="108" font-size="16" font-weight="400" >Clients served through Preesoft</text></g>
+<g class="in" style="animation-delay:0.5499999999999999s"><rect x="972.5" y="0.5" width="307" height="139" rx="18" fill="#232326" stroke="#333338"/><text class="" x="996" y="70" font-size="42" font-weight="700" letter-spacing="-1.2">Top 3%</text><text class="dim" x="996" y="108" font-size="16" font-weight="400" >Top Rated Plus on Upwork</text></g>
+</svg>
