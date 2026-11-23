@@ -17,8 +17,8 @@
 <g class="in" style="animation-delay:.1s"><rect x="64" y="64" width="268" height="38" rx="19" fill="#232326" stroke="#3A3A3F"/><circle cx="86" cy="83" r="4" fill="#6FD49A"/><text class="" x="100" y="88" font-size="15" font-weight="500" >Available for new projects</text></g>
 <text class="in" x="62" y="208" font-size="80" font-weight="700" style="animation-delay:0.3s" letter-spacing="-3">Web. API. Mobile.</text>
 <text class="acc in" x="62" y="298" font-size="80" font-weight="700" style="animation-delay:0.5s" letter-spacing="-3">One engineer.</text>
-<text class="dim in" x="64" y="358" font-size="21" font-weight="400" style="animation-delay:0.8s" >I'm Malik Ali. I take products from first screen to production —</text>
-<text class="dim in" x="64" y="390" font-size="21" font-weight="400" style="animation-delay:0.9s" >the web app, the API behind it and the app in your customers' hands.</text>
+<text class="dim in" x="64" y="358" font-size="21" font-weight="400" style="animation-delay:0.8s" >I'm Malik Ali. I take products from first screen to production.</text>
+<text class="dim in" x="64" y="390" font-size="21" font-weight="400" style="animation-delay:0.9s" >I build the web app, the API and the app in your customers' hands.</text>
 <text class="m dim in" x="64" y="448" font-size="17" font-weight="500" style="animation-delay:1.0s" >COO at Preesoft  ·  Top Rated Plus on Upwork</text>
 <g class="in" style="animation-delay:.4s"><rect x="760" y="64" width="456" height="392" rx="16" fill="#141416" stroke="#3A3A3F"/><line x1="760" y1="110" x2="1216" y2="110" stroke="#2B2B2F"/><circle cx="782" cy="87" r="5" fill="#3A3A3F"/><circle cx="802" cy="87" r="5" fill="#3A3A3F"/><circle cx="822" cy="87" r="5" fill="#3A3A3F"/><text class="m dim" x="850" y="92" font-size="13" font-weight="400" >malik.ts</text></g>
 <text xml:space="preserve" class="m in" style="animation-delay:0.7s" x="784" y="156" font-size="17"><tspan fill="#C9A8FF">const</tspan><tspan> malik = {</tspan></text>
