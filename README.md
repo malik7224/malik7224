@@ -2,7 +2,9 @@
 
 <a href="https://www.upwork.com/freelancers/~0149bae7baf6f8630c"><img src="assets/facts.svg" alt="7+ years shipping software. Web, API and mobile with one owner. Clients in the US and UK through Preesoft. Top 3% Top Rated Plus on Upwork." width="100%"></a>
 
-<a href="https://www.upwork.com/freelancers/~0149bae7baf6f8630c"><img src="assets/work.svg" alt="Selected work: Settle, Bill Khata, Marketplace, Firebase Admin API. Private projects, code on request." width="100%"></a>
+<a href="https://github.com/malik7224/helpdesk-fullstack"><img src="assets/work.svg" alt="Selected work: Helpdesk (open source), Settle, Bill Khata, Marketplace, Firebase Admin API. Client work stays private." width="100%"></a>
+
+<a href="https://github.com/malik7224/helpdesk-fullstack"><img src="assets/btn-helpdesk.svg" alt="View the Helpdesk code on GitHub" width="100%"></a>
 
 <a href="https://www.upwork.com/freelancers/~0149bae7baf6f8630c"><img src="assets/capabilities.svg" alt="Web: Next.js, React, TypeScript. Backend: Node.js, Express, Firebase, Supabase. Mobile: Kotlin, Compose, Flutter, Swift." width="100%"></a>
 
