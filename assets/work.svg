@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="648" viewBox="0 0 1280 648" role="img" aria-label="Selected work: Helpdesk (open source: web, API and iPhone), Settle, Bill Khata, Marketplace, Firebase Admin API. Client work stays private.">
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="648" viewBox="0 0 1280 648" role="img" aria-label="Selected work: Helpdesk (open source: web, API, iPhone and Android), Settle, Bill Khata, Marketplace, Firebase Admin API. Client work stays private.">
   <defs>
     <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
       <path d="M48 0H0V48" fill="none" stroke="#26262A" stroke-width="1"/>
@@ -20,11 +20,12 @@
 <rect x="48.5" y="120.5" width="747" height="249" rx="18" fill="#2B2B2F" stroke="#3A3A3F"/>
 <text class="m acc" x="76" y="170" font-size="13" font-weight="500" letter-spacing="1.6">FEATURED  ·  OPEN SOURCE</text>
 <text class="" x="76" y="222" font-size="40" font-weight="700" letter-spacing="-.8">Helpdesk</text>
-<text class="dim" x="76" y="258" font-size="19" font-weight="400" >Full-stack ticketing: Next.js web app, Node.js API</text>
-<text class="dim" x="76" y="288" font-size="19" font-weight="400" >and a native iPhone app. 67 automated tests.</text>
+<text class="dim" x="76" y="258" font-size="19" font-weight="400" >Full-stack ticketing: Next.js web app, Node.js API,</text>
+<text class="dim" x="76" y="288" font-size="19" font-weight="400" >plus iPhone and Android apps. 89 automated tests.</text>
 <g class=""><rect x="76" y="308" width="84" height="34" rx="8" fill="#1E1E21"/><text class="m" x="118.0" y="329.55" font-size="13" font-weight="500" text-anchor="middle" fill="#F4F4F2">Next.js</text></g>
 <g class=""><rect x="168" y="308" width="84" height="34" rx="8" fill="#1E1E21"/><text class="m" x="210.0" y="329.55" font-size="13" font-weight="500" text-anchor="middle" fill="#F4F4F2">Node.js</text></g>
 <g class=""><rect x="260" y="308" width="68" height="34" rx="8" fill="#1E1E21"/><text class="m" x="294.0" y="329.55" font-size="13" font-weight="500" text-anchor="middle" fill="#F4F4F2">Swift</text></g>
+<g class=""><rect x="336" y="308" width="76" height="34" rx="8" fill="#1E1E21"/><text class="m" x="374.0" y="329.55" font-size="13" font-weight="500" text-anchor="middle" fill="#F4F4F2">Kotlin</text></g>
 </g>
 <g class="in" style="animation-delay:0.4s">
 <rect x="812.5" y="120.5" width="419" height="249" rx="18" fill="#232326" stroke="#3A3A3F"/>
